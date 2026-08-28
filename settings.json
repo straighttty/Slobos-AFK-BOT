@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "guccirick.aternos.me",
-    "port": 26967,
+    "ip": "guccirick.aternos",
+    "port": 26667,
     "version": "1.21.1"
   },
   "position": {
